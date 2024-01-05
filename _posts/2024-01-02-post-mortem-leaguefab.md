@@ -81,6 +81,6 @@ businesses are meant to do: <strong>make money.</strong>
 
 Around the time we wound down LeagueFab, I had another idea come up that I was
 interested in pursuing.
-Datascover was my
+[Datascover]({% link _posts/2024-01-07-post-mortem-datascover.md %}) was my
 next venture, where I was able to apply some of the lessons I learned from 
 working on LeagueFab.

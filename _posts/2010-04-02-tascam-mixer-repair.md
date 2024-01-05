@@ -6,7 +6,6 @@ tags: electronics
 ---
 
 ![Tascam banner](/assets/tascam_banner.png)
-
 This page documents my repair of the Tascam X-9 DJ mixer. A few weeks ago I
 started to see error codes "err1" and "err3" on the LCD display. For about the
 first two minutes of running, none of the buttons on the mixer would work, and
